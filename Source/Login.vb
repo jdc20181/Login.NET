@@ -1,5 +1,8 @@
 'The following has been formatted to be used with your own UI, to use, add a button and call Login() or the Register() 
 
+' You need to make sure you change the file name and folder name accordingly
+
+' import system, and system.xml.
 Public Sub Login()
  
         Dim filePath = Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData) &

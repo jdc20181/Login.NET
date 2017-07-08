@@ -25,4 +25,7 @@ The Code Only can be found in the Source folder.
 
 Please understand, the code is not secure, you need to use some sort of encryption to securely store data in the XML file, otherwise, anyone can obtain the information by opening the file. 
 
-*More information coming soon*
+This is intended for Small Scale solutions, bigger scale is undoubtably unavoidable to use a database system. 
+
+There can be glitches, and other disadvantages to using XML as a login system. 
+
